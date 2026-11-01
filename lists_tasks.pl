@@ -1,3 +1,5 @@
+% Lab 7: Tasks 1 and 2
+
 % Base case: an empty list gives an empty result.
 
 deleteElement(_, [], []).
